@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanketPatnaik
 - 👀 I’m interested in Core Java and Full Stack Engineering currently
-- 🌱 I’m currently learning Advanced Java, Oracle SQL and PL/SQL and Web Technologies
+- 🌱 I’m currently learning Advanced Java, Oracle SQL, PL/SQL and Web Technologies
 - 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me (patnaik.sanket96@gmail.com)
 
